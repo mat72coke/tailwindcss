@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Only expose used CSS variables ([#16211](https://github.com/tailwindlabs/tailwindcss/pull/16211))
 - Only expose used `@keyframes` ([#16211](https://github.com/tailwindlabs/tailwindcss/pull/16211))
+- Show suggestions for fractions in IntelliSense ([#16353](https://github.com/tailwindlabs/tailwindcss/pull/16353))
 
 ## [4.0.4] - 2025-02-06
 
